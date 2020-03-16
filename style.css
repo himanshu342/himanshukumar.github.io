@@ -1,0 +1,186 @@
+body{
+    font-family: Roboto 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#topHeader{
+    background-color: rgb(129, 19, 83);
+    text-align:end;
+    height:30px;
+}
+#topHeader a{
+    color:blue;
+    font-weight:600;
+    font-size:0.89rem;
+} 
+
+/* <!--------------------------navbar section------------------------ --> */
+
+.navbar-costom
+{
+background-color: rgb(221, 170, 94);
+color:brown;
+padding: 10px;
+}
+.navbar-costom .navbar-nav li a
+{
+color: rgb(10, 3, 36);
+font-size: 19px;
+font-weight: 600;
+margin-left: 13px;
+}
+.navbar-costom .navbar-nav .active a
+{
+background-color: rgb(194, 17, 46);
+}
+.navbar-costom .navbar-nav li a:hover
+{
+    background-color: rgb(194, 17, 46);
+}
+.navbar-costom .navbar-brand{
+    color: rgb(22, 21, 20);
+    font-size: 27px;
+    font-weight: 800;
+    margin-left: 15px;
+}
+.navbar-costom .navbar-brand:hover{
+    color: rgb(22, 21, 20);
+    font-size: 27px;
+    font-weight: 800;
+    margin-left: 15px;
+} 
+.carousel-caption{
+    color: rgb(194, 22, 22);
+    position: absolute ;
+    top: 35%;
+    left: -20px;
+}
+ b{
+    font-size:49px;
+    border-bottom-style: ridge;
+    font-weight: bold;
+    border-bottom-color: rgb(192, 11, 11);
+}
+/* --------------------services------------------------ */
+#services{
+    color: black;
+    font-size: 45px;
+    border-bottom-style: ridge;
+    
+    font-weight: bold;
+    border-bottom-color: rgb(192, 11, 11);
+}
+
+.col1{
+    border-style: solid ;
+    border-color: rgb(192, 11, 11);
+    border-width: 2px;
+    min-height: 350px;
+};
+.icons{
+    width: 130px;
+    font-size: 60px;
+    background-color: rgb(194, 17, 46);
+padding: 5px 10px ;
+height: 100px;
+margin-top: -50px;
+color: #82c434;
+
+}
+.btn-primary{
+    background-color: rgb(192, 11, 11);
+    border-radius: 0px;
+    border-color: bisque;
+}
+/* -------------------------About Company ------------------- */
+#about{
+
+    background-color:rgb(235, 167, 79);
+    padding:10px;
+}
+#php {
+    color: rgb(155, 9, 9);
+    font-weight: 500;
+    font-size: 15px;
+}
+#php1 {
+    color:green;
+    font-size: 15px;
+}
+#php2 {
+    color: yellow;
+    font-size: 15px;
+}
+#php3 {
+    color: blue;
+    font-size: 15px;
+}
+#aboutcompany{
+      color: black;
+    font-size: 45px;
+    border-bottom-style: ridge;
+    font-weight: bold;
+    border-bottom-color: rgb(192, 11, 11);
+}
+/* --------------------Team----------------------------------------------- */
+#team{
+    color: black;
+  font-size: 45px;
+  border-bottom-style: ridge;
+  font-weight: bold;
+  border-bottom-color: rgb(192, 11, 11);
+  background-color:cornsilk;
+}
+.team-member
+{
+    
+    text-align: center;
+}
+.team-member img {
+    width: 300px;
+    height: 350px;
+}
+.icon i{
+    margin-top: 5px;
+    height: 63px;
+    width: 63px;
+    border-radius: 50%;
+    padding:10px;
+    color: rgb(192, 11, 11);
+    background-color: #bac434;
+}
+
+.icon i:hover
+{
+    background-color: #606608;
+    transform: translateY(-7px);
+    color: rgb(153, 36, 6);
+}
+#footer{
+    widows:100px;
+    min-height: 433px;
+    background-color: antiquewhite;
+    position: relative;
+   
+}
+#footer input{
+padding: 5px;
+border: 5px solid #b12828;
+height: 50px;
+padding: 5px;
+margin: 5px;
+display: inline-block;
+width: 100%;
+border: 1px solid rgb(168, 61, 61);
+box-sizing: border-box;
+border-radius: 5px;
+}
+#footer .container{
+    padding: 20px;
+  background-color: rgb(231, 196, 154);
+}
+.btn{
+    background-color: rgb(192, 11, 11);
+    color: antiquewhite;
+    font-size: 20px;
+}
+
+
